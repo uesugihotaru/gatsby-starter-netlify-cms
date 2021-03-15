@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: 上杉製作所
+title: あああああ
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
